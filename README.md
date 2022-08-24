@@ -1,3 +1,3 @@
 # React chess
 
-Starter code for the tutorial of building a chess application with react
+Code built out and now hosted at hennessy.page/chess
